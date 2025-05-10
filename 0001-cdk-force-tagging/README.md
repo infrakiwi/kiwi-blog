@@ -34,7 +34,7 @@ Which should print
         [
             {
                 "Key": "Repository",
-                "Value": "infra-kiwi/kiwi-blog"
+                "Value": "infrakiwi/kiwi-blog"
             }
         ]
     ]

@@ -7,7 +7,7 @@ import 'zx/globals';
 // it is nonetheless the most straightforward way, as it does not require ANY setup.
 
 // You can even invoke this script remotely with
-// npx zx https://github.com/infra-kiwi/kiwi-blog/blob/main/0014-zx-scripting-in-typescript/scripts/purejs.mjs
+// npx zx https://github.com/infrakiwi/kiwi-blog/blob/main/0014-zx-scripting-in-typescript/scripts/purejs.mjs
 
 const output = await $`date`;
 

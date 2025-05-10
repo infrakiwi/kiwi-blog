@@ -12,7 +12,7 @@
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
   "repository": {
-    "url": "git://github.com/infra-kiwi/kiwi-blog.git"
+    "url": "git://github.com/infrakiwi/kiwi-blog.git"
   },
   "license": "MIT",
   "scripts": {
